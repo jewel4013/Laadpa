@@ -18,7 +18,7 @@
     <!-- Mentions -->
     <div class="info-box mb-3 bg-success">
         <span class="info-box-icon"><i class="far fa-heart"></i></span>
-        <div class="info-box-content">
+        <div class="info-box-content">            
             <span class="info-box-text">Mentions</span>
             <span class="info-box-number">92,050</span>
         </div>

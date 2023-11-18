@@ -18,6 +18,7 @@
 
 
 <div class="wrapper">
+    
 
     @include('layout.loader')
     @include('layout.navbar')
